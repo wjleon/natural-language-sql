@@ -1,3 +1,5 @@
+This repository is part of a blog post by Wilmer Leon: [Bye-bye SQL: Talk to Your Data in Plain English](https://medium.com/@wjleon/bye-bye-sql-talk-to-your-data-in-plain-english-69f8697648fd)
+
 # Talk to Postgres DB
 
 A natural language interface for PostgreSQL databases using Vanna.ai and OpenAI. This application allows you to query your database using plain English instead of SQL.
